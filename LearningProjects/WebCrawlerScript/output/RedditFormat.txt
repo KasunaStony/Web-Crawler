@@ -1,0 +1,21 @@
+#only for reference purpose
+
+entire post:
+<div>
+'class':'_1poyrkZ7g36PawDueRza-J _11R7M_VOgKO1RJyRSRErT3'
+
+title:
+<h3>
+'class':'_eYtD2XCVieq6emjKBH3m'
+
+title href:
+<a>
+'class':'SQnoC3ObvgnGjWt90zD9Z _2INHSNB8V5eaWp4P0rY_mE'
+
+upvote number:
+<div>
+'class':'_1rZYMD_4xY3gRcSS3p8ODO'
+
+comments:
+<span>
+'class':'FHCV02u6Cp2zYL0fhQPsO'
