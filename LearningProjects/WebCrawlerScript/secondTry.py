@@ -18,7 +18,7 @@ driver.find_element_by_xpath("//input[@id='userNameInput']").send_keys(user)
 
 driver.find_element_by_xpath("//span[@id='nextButton']").click()
 
-pwd = "Kasuna667216!"
+pwd = "nope"
 driver.find_element_by_xpath("//input[@id='passwordInput']").send_keys(pwd)
 
 driver.find_element_by_xpath("//span[@id='submitButton']").click()
